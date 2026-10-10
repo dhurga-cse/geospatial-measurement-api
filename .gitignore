@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Uploaded files and generated test data
+uploads/
+test_shapefile/
+sample-shapefiles.zip
+sample-geospatial-test.kml
+
+# Editor files
+.vscode/
